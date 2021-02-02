@@ -1,3 +1,5 @@
 <?php
 
-const BASE_URL = 'http://localhost/web_aoIT/website-aothun-main/';
+if (!defined('BASE_URL')) {
+    define('BASE_URL', 'http://localhost/web_aoIT/website-aothun-main/');
+}
