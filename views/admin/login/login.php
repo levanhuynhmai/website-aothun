@@ -13,7 +13,7 @@
           integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
     <!-- Favicons -->
-    <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL ?>assets/admin/login.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL ?>assets/admin/css/login.css">
     <meta name="theme-color" content="#7952b3">
 
     <style>
